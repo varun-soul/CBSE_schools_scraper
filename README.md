@@ -7,3 +7,5 @@ It iterates through the list of states and then for each state, it visits the sp
 This is my first proper python project so I am not sure what mistakes I have made or how the code could be made to run faster. It takes about 4 hours on my machine to scrape through all the 30k CBSE schools. 
 
 Please feel free to suggest any improvements :3
+
+(NOTE: The ipynb is the same code as the .py file, I was just testing code there)
